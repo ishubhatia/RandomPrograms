@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include <string.h> 
 #include <stdlib.h>
-#define CHUNK_SIZE 5
+#define CHUNK_SIZE 6
 
 void search( char* txt) 
 
